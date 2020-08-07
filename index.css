@@ -1,7 +1,19 @@
+/* body {
+  background-color: #ecf0f1;
+}
+h1 {
+  color: white;
+  transition: color 0.5s ease-in-out;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+*/
 body {
-    background-color:peru;
-  }
-  
-  #h1 {
-    color:white;
-  }
+  color: black;
+}
