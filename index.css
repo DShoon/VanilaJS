@@ -17,3 +17,11 @@ h1 {
 body {
   color: black;
 }
+
+.form,
+.greetings {
+  display: none;
+}
+.showing {
+  display: block;
+}
